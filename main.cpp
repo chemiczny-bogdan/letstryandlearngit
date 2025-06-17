@@ -13,8 +13,8 @@ int diff(int x, int y){
     return x-y;
 }
 
-int product(int x, int y){
-    return x*y;
+int product(int x, int y, int z, int w){
+    return x*y*z*w;
 }
 
 int main(){
