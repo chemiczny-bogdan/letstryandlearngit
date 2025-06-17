@@ -9,6 +9,10 @@ int sum(int x[], int n){
     return s;
 }
 
+int sum3(int x, int y, int z){
+    return x+y+z;
+}
+
 int diff(int x, int y){
     return x-y;
 }
@@ -22,5 +26,7 @@ int product3(int x, int y, int z){
 }
 
 int main(){
+    int a= 89, b=5, c=1;
+    cout << sum3(a, b, c);
     cout << "Hello world!\n";
 }
