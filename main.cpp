@@ -13,7 +13,11 @@ int diff(int x, int y){
     return x-y;
 }
 
-int product(int x, int y, int z){
+int product4(int x, int y,int z, int w){
+    return x*y*z*w;
+}
+
+int product3(int x, int y, int z){
     return x*y*z;
 }
 
