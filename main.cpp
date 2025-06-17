@@ -22,5 +22,7 @@ int product3(int x, int y, int z){
 }
 
 int main(){
+    int t[3] = {5, 1, 9};
+    cout << sum(t, 3);
     cout << "Hello world!\n";
 }
