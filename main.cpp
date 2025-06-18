@@ -18,7 +18,7 @@ int product4(int x, int y,int z, int w){//calculate product of 4 numbers
 }
 
 int product3(int x, int y, int z){
-    return x*y*z;
+    return x*y*z;//bhla
 }
 
 int main(){
