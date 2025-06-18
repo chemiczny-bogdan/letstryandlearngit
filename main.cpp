@@ -13,7 +13,7 @@ int diff(int x, int y){
     return x-y;
 }
 
-int product4(int x, int y,int z, int w){
+int product4(int x, int y,int z, int w){//calculate product of 4 numbers
     return x*y*z*w;
 }
 
